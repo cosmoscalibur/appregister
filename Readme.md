@@ -27,7 +27,7 @@ pip install appregister
 ## License
 
 This project is licensed under the MIT License - see the
-[LICENSE.md](LICENSE) file for details.
+[LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
