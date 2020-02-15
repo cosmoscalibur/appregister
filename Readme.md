@@ -27,10 +27,11 @@ pip install appregister
 ## License
 
 This project is licensed under the MIT License - see the
-[LICENSE.md](LICENSE.md) file for details.
+[LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
-I ackowledge to @nicoguaro for discussion ideas about how easy should be open
-a notebook for an student o basic user. This discussion derived in two small
-projects: AppRegister and Notebook Launcher (soon ...).
+I ackowledge to [@nicoguaro](https://github.com/nicoguaro) for discussion ideas
+about how easy should be open a notebook for an student o basic user. This
+discussion derived in two small projects: AppRegister and Notebook Launcher
+(soon ...).
